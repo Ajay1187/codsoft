@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class NumberGuessingGame {
     static ArrayList<Integer> scoreBoard = new ArrayList<>();
 
