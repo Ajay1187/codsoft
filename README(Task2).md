@@ -14,3 +14,8 @@ Project Highlights:
 This project challenged me to delve into the intricacies of Java programming, UI design, and algorithm development. It was an incredible learning experience, and I am proud to have built a tool that can potentially simplify grade management for students and educators alike.
 Educational Impact:
 The Student Grade Calculator is not just a project; it's a contribution to education. By automating the grade calculation process, it can save time and provide valuable insights into academic performance.
+
+language : JAVA
+
+IDE : Editplus
+
