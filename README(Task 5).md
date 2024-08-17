@@ -1,4 +1,4 @@
-# StudentManagementApp
+# Student Management System
 
 The Student Management System is a command-line application that allows users to perform various actions related to student data management. It includes the following functionalities:
 
